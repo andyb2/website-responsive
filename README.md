@@ -21,4 +21,4 @@
 
 ## Project created by Andrew Boyle
 
-# [GitHub](https://andyb2.github.io/website-responsive/)
+# [Responsive Website](https://andyb2.github.io/website-responsive/)
